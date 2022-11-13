@@ -1,0 +1,2 @@
+libLocalTM_wrapper.camera.samsung.so
+libOpenCL.so
